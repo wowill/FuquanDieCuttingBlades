@@ -1,0 +1,100 @@
+
+---下载的文件---
+导入文件：Full demo已成功下载！
+初始最大执行时间= 30
+文件信息：
+网站网址 = http://localhost
+数据文件 = /var/www/html/wp-content/themes/samatex//demo/all.xml
+小工具文件 = /var/www/html/wp-content/themes/samatex//demo/widgets.wie
+自定义文件 = 未定义!
+Redux文件：
+samatex_enovathemes -> /var/www/html/wp-content/themes/samatex//demo/options.json 
+
+
+------
+新 Ajax 调用！
+
+
+------
+新 Ajax 调用！
+
+
+------
+新 Ajax 调用！
+
+
+------
+新 Ajax 调用！
+
+
+------
+新 Ajax 调用！
+
+
+------
+新 Ajax 调用！
+
+
+------
+新 Ajax 调用！
+
+
+------
+新 Ajax 调用！
+
+
+------
+新 Ajax 调用！
+
+
+------
+新 Ajax 调用！
+
+
+---正在导入小工具---
+Blog widgets : 
+
+搜索 - 无标题 - 导入完成
+instagram - Instagram - 站点不支持小工具
+分类 - Categories - 导入完成
+* Mailchimp - Subscribe - 导入完成
+* Photos from flickr - Photos from flickr - 导入完成
+标签云 - Tags - 导入完成
+* Facebook - Find us on Facebook - 导入完成
+
+Blog single post page widgets : 
+
+搜索 - 无标题 - 导入完成
+instagram - Instagram - 站点不支持小工具
+分类 - Categories - 导入完成
+* Mailchimp - Subscribe - 导入完成
+* Photos from flickr - Photos from flickr - 导入完成
+*Recent Posts - Recent posts - 导入完成
+* Facebook - Find us on Facebook - 导入完成
+
+shop-widgets : 主题中不存在侧边栏(将小工具移动到非活动状态)
+
+woocommerce_product_search - 无标题 - 站点不支持小工具
+woocommerce_product_categories - Product categories - 站点不支持小工具
+woocommerce_price_filter - Filter by price - 站点不支持小工具
+woocommerce_rating_filter - Average rating - 站点不支持小工具
+woocommerce_layered_nav - Filter by - 站点不支持小工具
+yith-woocompare-widget - 无标题 - 站点不支持小工具
+woocommerce_products - Products - 站点不支持小工具
+woocommerce_product_tag_cloud - Product tags - 站点不支持小工具
+
+shop-single-widgets : 主题中不存在侧边栏(将小工具移动到非活动状态)
+
+woocommerce_product_search - 无标题 - 站点不支持小工具
+woocommerce_product_categories - Product categories - 站点不支持小工具
+woocommerce_products - Products - 站点不支持小工具
+yith-woocompare-widget - 无标题 - 站点不支持小工具
+woocommerce_product_tag_cloud - Product tags - 站点不支持小工具
+
+
+
+---导入Redux设置---
+Redux设置导入： samatex_enovathemes 成功完成！
+
+---ocdi/after_import---
+

@@ -1,0 +1,21 @@
+services:
+  mysql:
+    image: mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD=FuquanDieCuttingBlades123456.
+      - MYSQL_DATABASE=wordpress
+    volumes:
+      - ./mysql_conf:/etc/mysql/conf.d
+      - ./mysql_data:/var/lib/mysql
+  web:
+    image: wordpress
+    links:
+      - mysql
+    environment:
+      - WORDPRESS_DB_PASSWORD=FuquanDieCuttingBlades123456.
+      - WORDPRESS_DB_USER=root
+    ports:
+      - "80:80"
+    working_dir: /var/www/html
+    volumes:
+      - ./wordpress:/var/www/html
